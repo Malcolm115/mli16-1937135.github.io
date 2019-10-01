@@ -1,2 +1,2 @@
-# mli16-1937135.github.io
+# mli16-1937135
 info 101 stuff
